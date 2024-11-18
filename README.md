@@ -19,7 +19,7 @@ Contenido : Una aplicacion hecha con Ionic y Angular que esta usando la auntenti
 ### Auntenticación
 
 
-![image3](https://github.com/user-attachments/assets/c9bb035f-828c-4e1c-863b-1d92210f4e3f)
+![image3](https://github.com/Eduardo-Caza/Trabajo-Grupal-CG/blob/main/Auth.png)
 
 ### Chat
 
