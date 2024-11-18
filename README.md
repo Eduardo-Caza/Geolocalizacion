@@ -67,4 +67,4 @@ Contenido : Una aplicacion hecha con Ionic y Angular que esta usando la auntenti
    ```bash
    ionic serve
 5. Ejecucion del Programa:
-![android studio](https://github.com/user-attachments/assets/84d052dd-1e7b-4524-b1e5-4168d7f873c6)
+![android studio](https://github.com/Eduardo-Caza/Geolocalizacion/blob/master/ejecucion.png)
