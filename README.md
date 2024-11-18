@@ -1,4 +1,4 @@
-# Geolocalización y Auntenticacion en Firebase 🌍
+# Geolocalización y Autenticación en Firebase 🌍
 
 > **Miembros**: Eduardo Caza
 
@@ -16,7 +16,7 @@ Contenido : Una aplicacion hecha con Ionic y Angular que esta usando la auntenti
 
 ![image](https://github.com/user-attachments/assets/98312bb3-64af-42d5-9297-9b30bf5b3105)
 
-### Auntenticacion
+### Auntenticación
 
 
 ![image3](https://github.com/user-attachments/assets/c9bb035f-828c-4e1c-863b-1d92210f4e3f)
@@ -47,7 +47,7 @@ Contenido : Una aplicacion hecha con Ionic y Angular que esta usando la auntenti
    uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"
    uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"
    uses-feature android:name="android.hardware.location.gps"
-5. Y integramos firebase en nuestro proyecto 
+5. E integramos firebase en nuestro proyecto 
    ```bash
    ng add @angular/fire
 
@@ -67,4 +67,4 @@ Contenido : Una aplicacion hecha con Ionic y Angular que esta usando la auntenti
    ```bash
    ionic serve
 5. Ejecucion del Programa:
-![android studio](https://github.com/user-attachments/assets/84d052dd-1e7b-4524-b1e5-4168d7f873c6)
+![android studio](https://github.com/Eduardo-Caza/Geolocalizacion/blob/master/ejecucion.png)
